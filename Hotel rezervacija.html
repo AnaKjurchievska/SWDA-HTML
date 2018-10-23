@@ -74,18 +74,30 @@ margin-left: auto; margin-right: auto;"/>
 </p>
 <input type="date"/><br/> 
 <p><font color="#ff6161">Limousine Pick Up:</font></p>
-
-<input type="checkbox"/> Yes<br>
-<input type="checkbox"/> No<br>
-
+<label>
+<input type="radio" name="rez"  value=Yes/>
+ Yes
+</label>
+<label>
+<input type="radio"  name="rez" value="No"/>
+No
+</label>
 
 <p>I hereby authorize  Sunway Putra Hotel Kuala Lumpur to charge to my credit card details as follows:</p>
 
  <p><font color="#ff6161">Credit Card Type: </font></p>
- <input type="checkbox"/> Master<br>
- <input type="checkbox"/> Visa<br>
- <input type="checkbox"/> Amex<br>
- <input type="checkbox"/> Visa<br>
+ <label>
+ <input type="radio" name="card" value="Master">
+ Master
+</label>
+<label>
+ <input type="radio" name="card" value="Visa">
+ Visa
+</label>
+<label>
+ <input type="radio" name="card" value="Amex"> 
+ Amex
+</label>
 
  <p><font color="#ff6161">For Amex,please provide 4 digits I/D No:</font></p>
  <input type="text"><br/> 
