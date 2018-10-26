@@ -1,0 +1,49 @@
+
+body{
+    background-color: brown;
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+/* span{
+    color: black
+} */
+
+.yellow{
+    color: yellow;
+}
+.black{
+    color: black;
+}
+#paragraph{
+    font-style: italic
+}
+
+.iminja{
+    color: black;
+    list-style: none;
+    width: 200px;
+}
+
+.iminja li{
+    border-bottom: 1px solid white;
+}
+
+li.yellow{
+
+    color:#3b9eba
+}
+
+
+.bold{
+    font-weight: bold;
+}
+.grey{
+    background-color: gray;
+}
+table{
+border:1px solid .black;
+height: 500px;
+width:500 px;
+}
