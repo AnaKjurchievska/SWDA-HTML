@@ -1,0 +1,292 @@
+*{
+padding: 0;
+margin: 0;
+font-family: sans-serif;
+
+}
+
+.header{
+height: 215px;
+
+}
+
+.reklama{
+width: 729px;
+height: 90px;
+margin: 5px 60px 5px 165px;
+float: left;
+}
+
+.data{
+  float: left;  
+  padding-top: 80px;
+  margin-left: 0;
+
+}
+
+.logo{
+width: 90%;
+height: 88px;
+
+float: left;
+margin-left: 5%; 
+
+}
+
+.skopje{
+width: 85px;
+height: 35px;
+float: left;
+color: black;
+margin: 15px 10px;
+
+
+}
+
+.cetiri{
+    font-size: 40px;
+}
+
+
+.sonce{
+    width: 70px;
+    height: 70px;
+    float: left;
+    margin-left: 100px;
+    padding-top: 10px;
+    
+
+}
+
+
+    
+.off{
+    display: block;
+    float: left;
+    width: 446px;
+    height: 57px;
+    margin: 10px 95px;
+
+
+}
+.mobilna{
+float: left;
+padding-top: 20px;
+margin-left: 36px;
+
+}
+
+.baraj{
+float: left;
+margin: 10px 100px;
+}
+
+.vesti{
+display: block;
+float: left;
+padding-right: 17px;
+
+
+}
+
+.menu3{
+height: 26px;
+margin-left: 13%;
+margin-top: 10px;
+
+float: left;  
+    
+}
+
+.Pisi{
+    float: right;
+    margin-top: 10px;
+    padding-left: 60px;
+    margin-right:15%;
+}
+.linija{
+    width: 90%;
+    height: 1px;
+    background-color: black;
+    float: left;
+    margin-left: 5%;
+}
+
+.linija1{
+    width: 90%;
+    height: 3px;
+    background-color: black;
+    float: left;
+    margin-left: 5%;
+    margin-bottom: 2px;
+}
+
+.PRV{
+height: 700px;
+width: 200px;
+border:1px solid white;
+margin: 10px 5px 5px 150px;
+float: left;
+
+}
+
+
+
+.recnik{
+
+border: 2px solid black;
+height: 80px;
+width: 180px;
+text-align: center;
+background-color:whitesmoke;
+margin-left: 22px;
+padding-top: 10px;
+}
+
+.kvadrat1{
+
+    border: 1px solid black;
+    height: 20px;
+    width: 140px;
+    margin-bottom: 3px;
+    margin-left: 19px;
+    font-size: 13px;
+ 
+}
+
+.kvadrat2{
+    border: 1px solid black;
+    height: 20px;
+    width: 140px;
+    margin-left: 19px;
+    }
+
+    .radio{
+        margin-top: 5px;
+        margin-bottom: 5px;
+        margin-left: 22px;
+       
+    }
+
+    .daily{
+      margin-left: 15px;
+    }
+    .nabrzinka{
+        margin-right: 20px;
+        height: 27px;
+        text-align: center;
+        float: left;
+        padding-left: 5px;
+    
+      }
+    .lista{
+        padding: 10px 10px 5px 25px;
+        font-size: 13px;
+        float: left;
+        border: 1px solid black;
+        margin-left: 4px; 
+        
+    }
+    .linija{
+        padding: 0 5px O 5px;
+    }
+    .drugite{
+       float: right; 
+       font-size: 12px;
+    }
+
+    .vtor{
+        float: left;
+        height: 311px;
+        width: 466px;
+        border: 1px solid black;
+        margin: 10px 10px 5px 10px;
+    }
+
+     .tekst{
+         font-size: 14px;
+          margin-bottom: 3px;
+     }
+       .vtor1{
+        border: 1px solid black;
+        width: 224px;
+        height: 150px;
+        float: left;
+        margin-top: 5px;
+       }
+
+       .tekst2{
+        font-size: 13px;
+         float: left;
+         width: 226px;
+         height: 232px; 
+         margin-bottom: 5px;
+        
+         
+       }
+
+       .vtor2{
+        border: 1px solid black;
+        width: 224px;
+        height: 150px;
+        float: right;
+        margin-top: 5px;
+
+       }
+       
+       .tekst3{
+           font-size: 13px;
+            margin-bottom: 5px;
+       
+    }
+
+    .ww{
+    float: left;
+    border: 1px solid black;
+    margin-top: 260px;
+    width: 224px;
+    height: 150px;
+       
+    }
+
+    .ww1{
+        border: 1px solid black;
+        width: 224px;
+        height: 150px;
+        float: right;
+        margin-top: 260px;
+
+           
+        }
+
+
+        .kako{
+            font-size: 13px;
+        }
+     
+
+
+    .tret{
+
+    border: 1px solid white;
+    width: 300px;
+    height: 600px;
+    float: left;
+   margin-right: 180px;
+   margin-top: 9px;
+    }
+
+    .tret1{
+        width: 300px;
+        height: 254px;
+        float: left;
+
+    }
+
+   
+   
+.center{
+    margin: auto;
+    float: left;
+}
+ 
