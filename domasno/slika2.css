@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 50px;
+    background-color: #1d2c3f;
+    
+}
+
+.container {
+height: 320px;
+width: 470px;
+border-radius: 12px;
+background-image: url(./images/background.png);
+padding: 38px 0 37px 39px;
+
+
+}
+
+h1{
+    font-size: 24px;
+     color: white;
+}
+
+.circle{
+    width: 17px;
+    height: 17px;
+    background-color: green;
+    border-radius: 50%;
+    border: 1px solid green;
+    margin-top: 38px;
+    
+}
+
+.circle p{
+    font-size: 16px;
+    color: white;
+    width: 160px;
+    padding-left: 28px;
+}
+
+.circlee{
+
+    width: 17px;
+    height: 17px;
+  
+    border-radius: 50%;
+    border: 1px solid green;
+    margin-top: 60px;
+
+
+}
+
+.circlee p{
+    font-size: 16px;
+    color: white;
+    width: 200px;
+    padding-left: 28px;
+   
+}
+
+.button{
+height: 32px;
+width: 94px;
+border-radius: 12px;
+background-color: red;
+text-align: center;
+color: white;
+font-size: 14px;
+margin-top: 51px;
+padding-top: 7px;
+
+}

@@ -1,0 +1,77 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+
+}
+
+body{
+    background-color:  #1d2c3f;
+    margin: 50px;
+    
+
+}
+
+.summer {
+    width: 470px;
+    height: 614px;
+    background-color: #eeebe6;
+    border-radius: 12px; 
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: center;
+	align-content: stretch;
+    
+}
+
+h3 {
+    
+    color:#c9c9ca;
+    font-size: 11px;
+    padding: 54px 174px 16px 174px;
+}
+
+h1 {
+
+    font-size: 20px;
+    color: #4e4f53;
+    padding: 0px 161px 24px 160px;
+
+}
+
+hr {
+    width: 48px;
+    height: 4px;
+    background-color: #4e4f53;
+    margin-left: 90px;
+    
+}
+
+p{
+    font-size: 10px;
+    color: #7f8187;
+    margin-top: 24px;
+    text-align: center;
+    line-height: 13px;
+}
+
+.slika {
+   margin-top: 69px;
+   margin-bottom: 53px;
+}
+
+.button{
+width: 113px;
+height: 32px; 
+border-radius: 2px;
+font-size: 11px;
+background-color: #478cba;
+text-align: center;
+color: white;
+padding-top: 10px;
+margin: auto;
+}
+
