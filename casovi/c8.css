@@ -1,0 +1,111 @@
+* {
+
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+
+}
+
+body{
+    background-color:#c5b092;
+    margin: 50px;
+}
+
+.container{
+    width: 766px;
+    height: 487px;
+    border-radius: 10px;
+    background-color: #20211f;
+    
+}
+
+.sign{
+    color: white;
+    font-size: 17px;
+    display: flex;
+    display: flex;
+   justify-content: center;
+   flex-direction: column;
+   text-align: center;
+   padding-top: 20px;
+   padding-bottom: 17px;
+}
+
+.kopcinja{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.prvo {
+    width: 292px;
+    height: 48px;
+    border-radius: 25px;
+    border: 1px solid white;
+    margin-top: 33px;
+    margin-left: 33px;
+    color: white;
+    padding-top: 16px;
+    padding-left: 16px;
+    background-color: transparent;
+    
+}
+
+.vtoro{
+    width: 292px;
+    height: 48px;
+    border-radius: 25px;
+    border: 1px solid white;
+    margin-top: 17px;
+    margin-left: 33px;
+    color: white;
+    padding-top: 16px;
+    padding-left: 16px;
+    background-color: transparent;
+
+}
+
+.treto{
+    width: 292px;
+    height: 48px;
+    border-radius: 25px;
+    border: 1px solid white;
+    margin-top: 17px;
+    margin-left: 33px;
+    color: white;
+    padding-top: 16px;
+    padding-left: 16px;
+    background-color: transparent;
+
+}
+
+.kopcinja p{
+    color: #edec93;
+    margin-left: 230px;
+    margin-top: 12px;
+}
+
+.cetvrto {
+    width: 292px;
+    height: 48px;
+    border-radius: 25px;
+    border: 1px solid white;
+    margin-top: 17px;
+    margin-left: 33px;
+    color: white;
+    text-align: center;
+    background-color: #4db2ac;
+    margin-top: 30px;
+
+}
+
+.accaunt{
+    height: 69px;
+    background-color:#333333;
+    margin-top: 45px;
+    overflow: hidden;
+    border-radius: 0 0 10px 10px;
+    color: white;
+    
+}
