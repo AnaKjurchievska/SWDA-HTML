@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+
+    background-color: #cbccb7;
+    margin: 50px;
+}
+
+.container{
+
+height: 282px;
+width: 381px;
+box-shadow: 0 10px 20px #b1b29f;
+border-radius: 10px;
+
+}
+
+.slika{
+    border-radius: 10px 10px 0 0;
+    overflow: hidden; 
+}
+  
+.linija{
+    height: 7px;
+    width: 381px;
+    background-color: #6f8b78;
+    margin-top: -4px;
+}
+
+
+.komentari{
+
+    display: flex;
+    flex-direction: row;
+   
+    
+}
+
+.komentarii span{
+    color: #cf7e7c;
+}
+
+.komentarii{
+
+   height: 86px; 
+   width: 127px;
+   background-color: #e5e6d6;
+   text-align: center;
+   padding-top: 15px;
+   line-height: 25px;
+   font-size: 18px;
+   border-radius: 0 0 0 10px;
+   
+
+   
+}
+
+.likes{
+    height: 86px; 
+    width: 127px;
+    background-color:#e4d49e;
+    text-align: center;
+    padding-top: 15px;
+    line-height: 25px;
+    font-size: 18px;
+
+}
+
+
+.likes span{
+    color: #cf7e7c;
+    text-decoration: underline;
+
+}
+.shots{
+    height: 86px; 
+    width: 127px;
+    background-color: #e5e6d6;
+    text-align: center;
+    padding-top: 15px;
+    line-height: 25px;
+    font-size: 18px;
+    border-radius: 0 0 10px 0;
+    
+}
+
+
+.shots span{
+    color: #cf7e7c;
+}
+ 
+ 

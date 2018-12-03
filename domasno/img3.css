@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #cbccb7;
+    margin: 50px;
+}
+
+
+.container{
+    width: 569px;
+    height: 191px;
+    background-image: url(./images/tumblr_n381rrGEmG1st5lhmo1_1280.png);
+    border-radius: 10px;
+    box-shadow: 10px 10px 25px  #b1b29f;
+}
+
+.prva{
+    height: 129px;
+}
+
+.prva p{
+    color:#d7daca;
+    padding-top: 18px;
+    padding-left: 23px;
+}
+
+
+.linija{
+  
+}
+.prval{
+    height: 7px;
+    width: 119px;
+    background-color: #571827;
+    margin-left: 11px;
+    
+}
+
+.vtoral{
+    height: 7px;
+    width: 439px;
+    background-color: #b05859;
+    margin-left: 130px;
+    margin-top: -7px;
+
+}
+
+.tret{
+    height: 55px;
+    width: 558px;
+    background-color: rgb(219, 221, 191, 0.9);
+     margin-left: 11px;
+    border-radius: 0 0 10px 10px;
+  
+    
+}
+
+
+.kopcinja{
+    padding-top: 20px;
+    padding-left: 20px;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: baseline;
+    align-content: stretch;
+   
+
+}
+
+.ko{
+color: #8a9f89;
+margin-left: -90px;
+
+}
+.kopcinja p{
+    color: #8a9f89;
+}
+
+.kopcinja span{
+    color: #c96466;
+    margin-left: -163px;
+}
+
+.kop{
+    margin-right: -60px;
+}
