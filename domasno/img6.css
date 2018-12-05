@@ -1,0 +1,184 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+
+}
+
+body{
+margin: 50px;
+background-color: #cebb9f;
+}
+
+.container{
+    height: 526px;
+    width: 368px;
+    border-radius: 30px;
+    box-shadow: 5px 10px 18px gray;
+    
+}
+
+.prv{
+
+    height: 319px;
+    width: 369px;
+    background-image: url(./images/bg.png);
+    border-radius: 20px 20px 0 0;
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+
+
+.prvv{
+
+/* height: 111px;
+width: 167px; */
+color: white;
+position: absolute;
+font-size: 150px;
+font-weight: bolder;
+padding-left: 90px;
+padding-top: 20px;
+
+}
+
+/* .prvv span{
+   margin-right: 80px;
+} */
+
+.span{
+   font-weight: lighter;
+   font-size: 90px;
+   color: white;
+   margin-left: 260px;
+   margin-top: -20px;
+}
+
+.oblak{
+   margin-top: 220px;
+   margin-left: -180px;
+
+}
+
+.oblak p{
+    color: white;
+    margin-top: -25px;
+    margin-left: 60px;
+    font-size: 20px;
+}
+
+.vtor{
+
+    height: 209px;
+    width: 368px;
+    background-color: #242424;
+    border-radius: 0 0 20px 20px;
+    
+}
+
+
+.slikicki{
+    padding-top: 25px;
+    margin-left: 30px;
+    
+
+   
+}
+.slika{
+    padding-bottom: 16px;
+    color: white;
+    font-size: 12px;
+   
+}
+.data{
+margin-top: -178px;
+position: absolute;
+margin-left: 70px;
+color: white;
+font-size: 12px;
+
+}
+
+.data span{
+    color: #48a19b;
+     
+}
+
+.data2{
+    margin-top: -130px;
+    position: absolute;
+    margin-left: 70px;
+    color: white;
+    font-size: 12px;
+
+}
+
+.data2 span{
+    color: #48a19b;  
+}
+
+.data3{
+    margin-top: -85px;
+    position: absolute;
+    margin-left: 70px;
+    color: white;
+    font-size: 12px;
+
+
+}
+
+.data3 span{
+    color: #48a19b;   
+}
+
+
+.data4{
+    margin-top: -40px;
+    position: absolute;
+    margin-left: 70px;
+    color: white;
+    font-size: 12px
+
+}
+.data4 span{
+    color: #48a19b;   
+}
+
+
+
+.a{
+    margin-top: -180px;
+    color: white;
+    margin-left: 300px;
+    color: #c8c77f;
+}
+
+.b{
+    margin-top: 30px;
+    color: white;
+    margin-left: 300px;
+    color: #c8c77f;
+
+}
+
+
+.c{
+    margin-top: 28px;
+    color: white;
+    margin-left: 300px;
+    color: #c8c77f;
+
+
+}
+
+.d{
+    margin-top: 28px;
+    color: white;
+    margin-left: 300px;
+    color: #c8c77f;
+
+
+
+}
