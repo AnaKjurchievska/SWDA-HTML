@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    margin: 50px;
+    background-color: #cebb9f;
+}
+
+.container{
+
+    height: 432px;
+    width: 431px;
+    background-image: url(./images/pic7.png);
+}
+
+
+.prv p{
+    color: #ce7d7b;
+    margin-top: 198px;
+    position: absolute;
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+.plus{
+    color: #ce7d7b;
+    margin-top: 190px;
+    margin-left: 370px;
+    position: absolute;
+    font-size: 40px;
+     
+}
+
+.prvred{
+    margin-top: 260px;
+    position: absolute;
+    margin-left: 40px;
+    word-spacing: 20px;
+    line-height: 20px;
+    font-size: 15px;
+}
+
+.siv{
+    color: #b6b6b6;
+}
+
+.vtorred{
+    margin-top: 260px;
+    position: absolute;
+    margin-left: 90px;
+    word-spacing: 20px;
+    line-height: 20px;
+    font-size: 15px;
+
+}
+
+.tretred{
+
+    margin-top: 260px;
+    position: absolute;
+    margin-left: 150px;
+    word-spacing: 20px;
+    line-height: 20px;
+    font-size: 15px;
+    
+}
+
+.dvojka{
+    background-color: #6f8b78;
+    border-radius: 50%;
+    width: 25px;
+  height: 23px;
+  padding: 3px;
+  text-align: center;
+  font: 15px Arial, sans-serif;
+  color: white;
+  margin-left: -7px; 
+}
+
+.tu{
+
+    margin-left: -2px;
+    text-align: center;
+}
+
+
+.cetvrttred{
+    margin-top: 260px;
+    position: absolute;
+    margin-left: 210px;
+    word-spacing: 20px;
+    line-height: 20px;
+    font-size: 15px;   
+
+
+}
+
+
+.pettred{
+    margin-top: 260px;
+    position: absolute;
+    margin-left: 270px;
+    word-spacing: 20px;
+    line-height: 20px;
+    font-size: 15px; 
+
+
+}
+
+.sedum{
+
+    background-color: #c96466;
+    border-radius: 50%;
+    width: 25px;
+  height: 23px;
+  padding: 3px;
+  text-align: center;
+  font: 15px Arial, sans-serif;
+  color: white;
+  margin-left: -7px;   
+}
+
+.sestred{
+    margin-top: 260px;
+    position: absolute;
+    margin-left: 330px;
+    word-spacing: 20px;
+    line-height: 20px;
+    font-size: 15px; 
+   
+}
+
+.sedumred{
+    margin-top: 260px;
+    position: absolute;
+    margin-left: 380px;
+    word-spacing: 20px;
+    line-height: 20px;
+    font-size: 15px; 
+
+}
